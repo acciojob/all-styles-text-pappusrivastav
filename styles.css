@@ -2,16 +2,24 @@
 /* Your CSS Code here. */
 .main{
 	width:200px;
-}
-#heading{
-	font-size:20px;
-	}
-.heading{
 	background-color:purple;
-	color:white;
+/* 	color:white; */
 	padding:10px;
-	text-decoration:underline;
+/* 	text-decoration:underline; */
    border-left:5px solid green;
+/* 	font-size:20px; */
+
+}
+}
+/* #heading{
 	font-size:20px;
-	width:200px;
+	} */
+#heading{
+
+	color:white;
+	
+	text-decoration:underline;
+  
+	font-size:20px;
+	
 }
