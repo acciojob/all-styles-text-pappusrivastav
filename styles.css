@@ -1,5 +1,11 @@
 
 /* Your CSS Code here. */
+#heading{
+	font-size:15px;
+	
+/* 	text-decoration:underline; */
+/* 	color:white; */
+}
 .heading{
 	background-color:purple;
 	color:white;
